@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lets_Start</string>
+    <string name="titulo_app">This is the Androids world</string>
+    <string name="welcome_message">"Welcome"</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Comencemos</string>
+    <string name="titulo_app">Este es el mundo de android</string>
+    <string name="welcome_message">"Bienvenido"</string>
+</resources>
