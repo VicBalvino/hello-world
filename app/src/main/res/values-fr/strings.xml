@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Commençons</string>
+    <string name="titulo_app">Tel est le monde d Android</string>
+    <string name="welcome_message">"Bienvenue"</string>
+</resources>
