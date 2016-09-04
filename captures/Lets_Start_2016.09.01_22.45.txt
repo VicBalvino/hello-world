@@ -1,0 +1,131 @@
+Applications Memory Usage (kB):
+Uptime: 1978442 Realtime: 1978378
+
+Total PSS by process:
+    36864 kB: system (pid 2012)
+    28748 kB: com.google.android.gms (pid 2713)
+    26359 kB: com.google.android.youtube (pid 5974)
+    25335 kB: android.process.acore (pid 2462)
+    25285 kB: com.google.android.apps.maps (pid 4984)
+    24815 kB: com.sec.android.inputmethod (pid 2220)
+    22364 kB: com.google.android.gms.persistent (pid 2438)
+    19260 kB: com.android.settings (pid 3517)
+    18683 kB: com.google.android.talk (pid 7022)
+    18661 kB: com.google.process.gapps (pid 2343)
+    16034 kB: com.android.systemui (pid 2132)
+    15568 kB: com.android.vending (pid 4574)
+    13829 kB: com.google.android.googlequicksearchbox:search (pid 5363)
+    13785 kB: com.sec.android.app.launcher (pid 2285)
+    11084 kB: com.google.android.gm (pid 4723)
+    10749 kB: com.osp.app.signin (pid 5715)
+    10181 kB: com.google.android.apps.plus (pid 5313)
+     9362 kB: com.android.mms (pid 3485)
+     8834 kB: com.android.phone (pid 2238)
+     8600 kB: com.google.android.gms.feedback (pid 5060)
+     7576 kB: android.process.media (pid 2334)
+     7430 kB: com.sec.chaton (pid 5285)
+     6964 kB: com.android.contacts (pid 2978)
+     6763 kB: com.sec.spp.push (pid 4053)
+     5702 kB: com.vlingo.midas (pid 8459)
+     5307 kB: com.sec.android.gallery3d (pid 5256)
+     4907 kB: com.wssyncmldm (pid 3551)
+     4674 kB: com.sec.android.app.sysscope (pid 8376)
+     4156 kB: com.android.MtpApplication (pid 4165)
+     3951 kB: com.tgrape.android.radar (pid 3258)
+     3864 kB: com.sec.android.app.clockpackage (pid 6787)
+     3075 kB: com.sec.android.app.twdvfs (pid 2264)
+     3029 kB: com.google.android.gsf.login (pid 6082)
+     2900 kB: com.sec.android.provider.logsprovider (pid 2252)
+     2750 kB: com.sec.android.widgetapp.programmonitorwidget (pid 6804)
+     2725 kB: com.sec.android.app.samsungapps (pid 5950)
+     2637 kB: com.sec.android.widgetapp.favoriteswidget (pid 6817)
+     2622 kB: com.sec.android.favoriteappwidget (pid 5235)
+     2616 kB: com.sec.android.widgetapp.digitalclock (pid 8412)
+     2586 kB: com.sec.android.app.controlpanel (pid 5218)
+     2528 kB: com.sec.android.app.samsungapps.una2 (pid 5881)
+     2473 kB: com.sec.android.provider.badge (pid 5895)
+     2398 kB: com.sec.phone (pid 8525)
+     2395 kB: com.sec.android.app.tmserver (pid 7108)
+     2334 kB: com.android.musicfx (pid 5852)
+     2114 kB: com.android.server.vpn.enterprise:remote (pid 2504)
+     2055 kB: com.sec.pcw.device (pid 5867)
+     2005 kB: com.android.server.device.enterprise:remote (pid 2516)
+     1987 kB: com.android.smspush (pid 2418)
+
+Total PSS by OOM adjustment:
+    36864 kB: System
+               36864 kB: system (pid 2012)
+    30843 kB: Persistent
+               16034 kB: com.android.systemui (pid 2132)
+                8834 kB: com.android.phone (pid 2238)
+                3075 kB: com.sec.android.app.twdvfs (pid 2264)
+                2900 kB: com.sec.android.provider.logsprovider (pid 2252)
+    19260 kB: Foreground
+               19260 kB: com.android.settings (pid 3517)
+     6106 kB: Visible
+                2114 kB: com.android.server.vpn.enterprise:remote (pid 2504)
+                2005 kB: com.android.server.device.enterprise:remote (pid 2516)
+                1987 kB: com.android.smspush (pid 2418)
+    39685 kB: Perceptible
+               24815 kB: com.sec.android.inputmethod (pid 2220)
+                6763 kB: com.sec.spp.push (pid 4053)
+                4156 kB: com.android.MtpApplication (pid 4165)
+                3951 kB: com.tgrape.android.radar (pid 3258)
+    43423 kB: A Services
+               22364 kB: com.google.android.gms.persistent (pid 2438)
+               18661 kB: com.google.process.gapps (pid 2343)
+                2398 kB: com.sec.phone (pid 8525)
+    13785 kB: Home
+               13785 kB: com.sec.android.app.launcher (pid 2285)
+    20568 kB: B Services
+                7576 kB: android.process.media (pid 2334)
+                5702 kB: com.vlingo.midas (pid 8459)
+                4674 kB: com.sec.android.app.sysscope (pid 8376)
+                2616 kB: com.sec.android.widgetapp.digitalclock (pid 8412)
+   260389 kB: Background
+               28748 kB: com.google.android.gms (pid 2713)
+               26359 kB: com.google.android.youtube (pid 5974)
+               25335 kB: android.process.acore (pid 2462)
+               25285 kB: com.google.android.apps.maps (pid 4984)
+               18683 kB: com.google.android.talk (pid 7022)
+               15568 kB: com.android.vending (pid 4574)
+               13829 kB: com.google.android.googlequicksearchbox:search (pid 5363)
+               11084 kB: com.google.android.gm (pid 4723)
+               10749 kB: com.osp.app.signin (pid 5715)
+               10181 kB: com.google.android.apps.plus (pid 5313)
+                9362 kB: com.android.mms (pid 3485)
+                8600 kB: com.google.android.gms.feedback (pid 5060)
+                7430 kB: com.sec.chaton (pid 5285)
+                6964 kB: com.android.contacts (pid 2978)
+                5307 kB: com.sec.android.gallery3d (pid 5256)
+                4907 kB: com.wssyncmldm (pid 3551)
+                3864 kB: com.sec.android.app.clockpackage (pid 6787)
+                3029 kB: com.google.android.gsf.login (pid 6082)
+                2750 kB: com.sec.android.widgetapp.programmonitorwidget (pid 6804)
+                2725 kB: com.sec.android.app.samsungapps (pid 5950)
+                2637 kB: com.sec.android.widgetapp.favoriteswidget (pid 6817)
+                2622 kB: com.sec.android.favoriteappwidget (pid 5235)
+                2586 kB: com.sec.android.app.controlpanel (pid 5218)
+                2528 kB: com.sec.android.app.samsungapps.una2 (pid 5881)
+                2473 kB: com.sec.android.provider.badge (pid 5895)
+                2395 kB: com.sec.android.app.tmserver (pid 7108)
+                2334 kB: com.android.musicfx (pid 5852)
+                2055 kB: com.sec.pcw.device (pid 5867)
+
+Total PSS by category:
+   212271 kB: Dalvik
+    96872 kB: Unknown
+    58235 kB: .dex mmap
+    38805 kB: .so mmap
+    30398 kB: .apk mmap
+    26546 kB: Other mmap
+     5638 kB: Other dev
+     1308 kB: Native
+      724 kB: .ttf mmap
+       82 kB: Ashmem
+       24 kB: Cursor
+       20 kB: .jar mmap
+
+Total PSS: 470923 kB
+      KSM: 0 kB saved from shared 0 kB
+           0 kB unshared; 0 kB volatile
